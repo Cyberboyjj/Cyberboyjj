@@ -16,7 +16,7 @@
 I'm **JULIUS JOSHUA OKPANACHI** – a **Bot Developer**, **Web Developer**, and **Cybersecurity enthusiast**.  
 I build practical tools that solve real problems, with a focus on automation, security, and clean code.
 
-- 🤖 Creator of **Knight Bot** – Multi‑device WhatsApp bot
+- 🤖 Creator of **ℂ𝕐𝔹𝔼ℝ_𝔹𝕆𝕋** – Multi‑device WhatsApp bot
 - 🌐 Web & Android developer
 - 🔐 Constantly exploring cybersecurity and ethical hacking
 - 📺 Content creator on tech & automation
@@ -42,7 +42,7 @@ I build practical tools that solve real problems, with a focus on automation, se
 
 ## 🚀 Featured Project
 
-### [Knight Bot – WhatsApp Multi‑Device Bot](https://github.com/Cyberboyjj/Cyberboyjj)
+### [ℂ𝕐𝔹𝔼ℝ_𝔹𝕆𝕋 – WhatsApp Multi‑Device Bot](https://github.com/Cyberboyjj/Cyberboyjj)
 
 A fast, feature‑rich WhatsApp bot built with **Baileys** and **Node.js**.  
 Supports multi‑device, media downloads, automation, and custom commands.
